@@ -1,1 +1,4 @@
 xxxxxxxxxxxxZZZZZZZZZZZZZZZ
+N = m*a
+fim ffffff
+
