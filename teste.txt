@@ -3,7 +3,10 @@ N = m*a
 N = m*a
 N = m*a
 N = m*a
+<<<<<<< HEAD
 N = m*add
+=======
+>>>>>>> 4df2419d3caf301e7c607ac548480589074b378e
 N = m*a
 N = m*a
 N = m*a
